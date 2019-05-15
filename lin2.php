@@ -5,4 +5,5 @@ echo '111';
 echo 'aaa';
 echo 'bbbb';
 echo '4444';
+echo 'up bug test';
 ?>
